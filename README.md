@@ -2,7 +2,7 @@
 
 ### Name:<br />
 Weiwei Chen
-
+------
 ### Description
 For this project, two machine learning algorithms—decision trees and support vector machines (SVMs) will be
 used to do the classification task on the same data set—Iris plant data set. The data set will be separated
