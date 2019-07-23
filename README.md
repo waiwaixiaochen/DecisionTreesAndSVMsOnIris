@@ -1,6 +1,6 @@
 # DecisionTreesAndSVMsOnIris
 
-### Name<br />
+### Name
 Weiwei Chen
 
 ### Description
