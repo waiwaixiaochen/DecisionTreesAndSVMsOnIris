@@ -16,15 +16,15 @@ Run command: python Main.py
 
 ### Sample result
 Accuracy by Decision Tree = 0.95<br />
-Confusion matrix:
+Confusion matrix:<br />
 [[22  0  0]<br />
  [ 0 15  2]<br />
  [ 0  1 20]]
  
 Accuracy by SVM = 0.983333333333<br />
-Confusion matrix:
-[[22  0  0]
- [ 0 16  1]
+Confusion matrix:<br />
+[[22  0  0]<br />
+ [ 0 16  1]<br />
  [ 0  0 21]]
  
 weight = [0.16409864 0.53568276 0.82586038 0.62245645]
