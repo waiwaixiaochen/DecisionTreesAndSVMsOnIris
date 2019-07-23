@@ -17,11 +17,11 @@ Run command: python Main.py
 ### Sample result
 Accuracy by Decision Tree = 0.95<br />
 Confusion matrix:
-[[22  0  0]
- [ 0 15  2]
+[[22  0  0]<br />
+ [ 0 15  2]<br />
  [ 0  1 20]]
  
-Accuracy by SVM = 0.983333333333
+Accuracy by SVM = 0.983333333333<br />
 Confusion matrix:
 [[22  0  0]
  [ 0 16  1]
