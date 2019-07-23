@@ -15,7 +15,7 @@ You don't need to build anything, only you should do is to install Python.
 Run command: python Main.py
 
 ### Sample result
-Accuracy by Decision Tree = 0.95
+Accuracy by Decision Tree = 0.95<br />
 Confusion matrix:
 [[22  0  0]
  [ 0 15  2]
